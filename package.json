@@ -23,7 +23,7 @@
   "dependencies": {
     "@types/qunit": "^2.9.0",
     "@types/webpack-env": "^1.14.0",
-    "karma": "^4.2.0",
+    "karma": "^6.0.0",
     "karma-chrome-launcher": "^3.0.0",
     "karma-qunit": "^4.0.0",
     "karma-sauce-launcher": "^2.0.2",
